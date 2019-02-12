@@ -95,9 +95,12 @@ Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,"YOUR_MID"]
-admin=["YOUR_MID"]
-admsa=["YOUR_MID"]
+Bots=[mid,Amid,Bmid,Cmid,"8363e7695bc3ea432746cbe6fa9e70b5
+"]
+admin=["8363e7695bc3ea432746cbe6fa9e70b5
+"]
+admsa=["8363e7695bc3ea432746cbe6fa9e70b5
+"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -113,10 +116,10 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cName":"Ard",
-    "cName2":"Ard 1",
-    "cName3":"Ard 2",
-    "cName4":"Ard 3",
+    "cName":"Protect",
+    "cName2":"Protect 1",
+    "cName3":"Protect 2",
+    "cName4":"Protect 3",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
